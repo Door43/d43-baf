@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[baf:home|Door43 (baf)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-baf|d43-baf repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-baf/archive/master.zip|d43-baf.zip]]
+
+**Recent Changes**
+{{changes>ns = baf}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/baf|Ethnologue data]]
+
